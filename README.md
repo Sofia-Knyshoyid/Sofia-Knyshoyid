@@ -17,3 +17,6 @@ My name is Sofia, and I'm passionate about Software Development and Networking
 -->
 
 My name is Sofia, and I'm passionate about Software Development and Networking
+
+Here is a link to a site about the project I've been working on recently:
+https://sofia-knyshoyid.github.io/
