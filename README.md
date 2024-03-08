@@ -16,14 +16,7 @@ My name is Sofia, and I'm passionate about Software Development and Networking
 - ⚡ Fun fact: ...
 -->
 
-My name is Sofia, and I'm passionate about Software Development and Networking
+My name is Sofia, and I'm passionate about Software Development and problem-solving.
+I love to learn new technologies and to contribute to exciting projects.
+I am always eager to take on new challenges, they motivate me to improve my skills and discover new professional opportunities.
 
-Here is a link to a site about the project I've been working on recently:
-https://sofia-knyshoyid.github.io/
-
-
-Here is a link to the interesting scientific code i forked: https://github.com/JunlinHan/CWR
-
-Here is a link to the research on paperswithcode: https://paperswithcode.com/paper/underwater-image-restoration-via-contrastive
-
-Here is a link to my fork: https://github.com/Sofia-Knyshoyid/CWR
