@@ -2,7 +2,7 @@
   <img src="./im.png" alt="Img" style="width:100%; height:80px;">
 </p> -->
 
-![Bongo Cat](./animation.gif)
+<img src="./animation.gif" style="width:30%; height:auto;">
 
 
 # Hi there 👋<br>
